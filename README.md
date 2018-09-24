@@ -15,5 +15,5 @@ the following sources are used for this analysis:
 - polarity analysis tool from https://github.com/sloria/textblob
 
 <figure>
-   <IMG SRC="congress_twitter_analysis/figures/twitter_analysis.png" ALIGN="left">
+   <IMG SRC="congress_twitter_analysis/figures/twitter_analysis_US_congress.png" ALIGN="left">
 </figure>
