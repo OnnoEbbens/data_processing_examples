@@ -1,6 +1,6 @@
 # Data processing examples
 this repository aims to show examples of data processing using python. 
-These examples are used in the python course developed at www.mamba-python.nl (Dutch).
+These examples are used in the python course developed for www.mamba-python.nl (Dutch).
 
 #### Twitter analysis US Congres
 
