@@ -10,6 +10,10 @@ The results are shown in a plot with the daily average sentiment for the republi
 Outliers are analysed and annotations are added with the cause of the outlier.
 
 the following sources are used for this analysis:
-- twitter text data from https://raw.githubusercontent.com/alexlitel/congresstweets
-- twitter user data from https://raw.githubusercontent.com/alexlitel/congresstweets-automator
+- twitter text data from https://github.com/alexlitel/congresstweets
+- twitter user data from https://github.com/alexlitel/congresstweets-automator
 - polarity analysis tool from https://github.com/sloria/textblob
+
+<figure>
+   <IMG SRC="congress_twitter_analysis/figures/twitter_analysis.png" WIDTH=125 ALIGN="right">
+</figure>
