@@ -17,3 +17,16 @@ the following sources are used for this analysis:
 <figure>
    <IMG SRC="congress_twitter_analysis/figures/twitter_analysis_US_congress.png" ALIGN="left">
 </figure>
+
+#### Whatsapp data analysis
+
+A  [jupyter notebook](whatsapp data/whatsapp_data_analysis.ipynb) with the analysis of a whatsapp conversation.
+The data was obtained by exporting a single Whatsapp chat (see https://faq.whatsapp.com/en/android/23756533/).
+I did not add this chat because of privacy issues. 
+I did create an anonymised pandas dataframe that you can read to reproduce my results. 
+I left the original reading code so you can read you own results
+
+
+<figure>
+   <IMG SRC="whatsapp data\figures\whatsapp_message_analysis.png" ALIGN="left">
+</figure>
