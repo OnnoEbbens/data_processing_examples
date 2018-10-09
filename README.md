@@ -18,6 +18,8 @@ the following sources are used for this analysis:
    <IMG SRC="congress_twitter_analysis/figures/twitter_analysis_US_congress.png" ALIGN="left">
 </figure>
 
+
+
 #### Whatsapp data analysis
 A  [jupyter notebook](/whatsapp&#32;data/whatsapp_data_analysis.ipynb) with the analysis of a whatsapp conversation.
 The data was obtained by exporting a single Whatsapp chat (see https://faq.whatsapp.com/en/android/23756533/).
