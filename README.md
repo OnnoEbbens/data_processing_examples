@@ -31,3 +31,6 @@ I left the original code for the full chat so you can read you own results.
 <figure>
    <IMG SRC="whatsapp data\figures\whatsapp_message_analysis.png" ALIGN="left">
 </figure>
+
+#### Groundwater modelling
+A [jupyter notebook](/groundwater&#32model/
