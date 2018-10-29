@@ -23,11 +23,14 @@ the following sources are used for this analysis:
 #### Whatsapp data analysis
 A  [jupyter notebook](/whatsapp&#32;data/whatsapp_data_analysis.ipynb) with the analysis of a whatsapp conversation.
 The data was obtained by exporting a single Whatsapp chat (see https://faq.whatsapp.com/en/android/23756533/).
-I did not add this chat to this repository because of privacy issues. 
+I did not add the full chat to this repository because of privacy issues. 
 I did create an anonymised pandas dataframe that you can read to reproduce my results. 
-I left the original reading code so you can read you own results.
+I left the original code for the full chat so you can read you own results.
 
 
 <figure>
    <IMG SRC="whatsapp data\figures\whatsapp_message_analysis.png" ALIGN="left">
 </figure>
+
+#### Groundwater modelling
+A [jupyter notebook](/groundwater&#32model/
