@@ -35,4 +35,4 @@ I left the original code for the full chat so you can read you own results.
 #### Groundwater modelling
 A [jupyter notebook](/groundwater&#32model/groundwater_model.ipynb) with a simple groundwater model. With meteorological data from the Netherlands. This video is made to show the unusual drought the Netherlands is facing in 2018. 
 
-[![Watch the video](https://github.com/OnnoEbbens/data_processing_examples/blob/master/groundwater%20model/results/frame0000000.png?raw=true)](https://youtu.be/hgkDP035VHc)
+[![Watch the video](https://img.youtube.com/vi/4M1Ej7AjFv8/hqdefault.jpg)](https://youtu.be/hgkDP035VHc)
